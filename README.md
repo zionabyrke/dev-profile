@@ -15,11 +15,7 @@
     <img src="https://img.shields.io/badge/GitHub-Operational-success?style=flat" />
   </a>
 </p>
-
-<p>
-  I focus on building wide range of interesting solo projects (for now)
-</p>
-
+I focus on building wide range of interesting solo projects (for now)
 <br>
 ## Toolkit
 <p align="left">
